@@ -1,0 +1,10 @@
+{
+  "name": "com.alexverb.statemanaging",
+  "version": "1.0.0",
+  "displayName": "State Managing",
+  "description": "Scripts for managing different game states",
+  "author": {
+    "name": "Sasha Verb",
+    "email": "sashaverb04@gmail.com"
+  }
+}
